@@ -1,0 +1,92 @@
+{
+  "schemaVersion": 1,
+  "id": "quran_general",
+  "version": 1,
+  "title": "اختبار عام عن بُعد",
+  "language": "ar",
+  "category": "quran",
+  "description": "اختبار تجريبي يُستجلب من GitHub — دليل عمل مسار التحديث",
+  "updatedAt": "2026-09-09",
+  "questions": [
+    {
+      "id": "gq01",
+      "type": "single_choice",
+      "prompt": "كم عدد سور القرآن الكريم؟",
+      "options": ["108", "112", "114", "120"],
+      "correctAnswer": 2,
+      "explanation": "عدد سور القرآن 114 سورة."
+    },
+    {
+      "id": "gq02",
+      "type": "single_choice",
+      "prompt": "ما أول سورة في المصحف؟",
+      "options": ["البقرة", "الفاتحة", "الأنفال", "آل عمران"],
+      "correctAnswer": 1,
+      "explanation": "سورة الفاتحة هي أول سور المصحف."
+    },
+    {
+      "id": "gq03",
+      "type": "single_choice",
+      "prompt": "أطول سورة في القرآن الكريم هي…؟",
+      "options": ["آل عمران", "النساء", "البقرة", "المائدة"],
+      "correctAnswer": 2,
+      "explanation": "سورة البقرة هي أطول سور القرآن."
+    },
+    {
+      "id": "gq04",
+      "type": "single_choice",
+      "prompt": "الجزء الملقّب بـ\"قل هو الله أحد\" يقع فيه؟",
+      "options": ["سورة الإخلاص", "سورة الفلق", "سورة الناس", "سورة الكافرون"],
+      "correctAnswer": 0,
+      "explanation": "سورة الإخلاص جزء من الجزء الثلاثين."
+    },
+    {
+      "id": "gq05",
+      "type": "single_choice",
+      "prompt": "\"إِنَّ مَعَ الْعُسْرِ يُسْرًا\" وردت في سورة؟",
+      "options": ["الشرح", "الضحى", "اللَّيل", "الفجر"],
+      "correctAnswer": 0,
+      "explanation": "وردت في سورة الشرح (الإنشراح)."
+    },
+    {
+      "id": "gq06",
+      "type": "single_choice",
+      "prompt": "ما عدد أجزاء القرآن الكريم؟",
+      "options": ["20", "30", "25", "35"],
+      "correctAnswer": 1,
+      "explanation": "ينقسم القرآن إلى 30 جزءاً."
+    },
+    {
+      "id": "gq07",
+      "type": "single_choice",
+      "prompt": "السورة التي خُتمت بـ\u0022الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ\u0022؟",
+      "options": ["الفاتحة", "الصافات", "البقرة", "الناس"],
+      "correctAnswer": 2,
+      "explanation": "خُتمت سورة البقرة بالحمد لله رب العالمين."
+    },
+    {
+      "id": "gq08",
+      "type": "single_choice",
+      "prompt": "سورة \"يس\" تُقرأ من؟",
+      "options": ["الجزء 10", "الجزء 23", "الجزء 15", "الجزء 30"],
+      "correctAnswer": 1,
+      "explanation": "تقع سورة يس في الجزء الثالث والعشرين."
+    },
+    {
+      "id": "gq09",
+      "type": "single_choice",
+      "prompt": "ما أصغر سورة في القرآن؟",
+      "options": ["الفلق", "الإخلاص", "الكوثر", "الناس"],
+      "correctAnswer": 2,
+      "explanation": "سورة الكوثر هي أقصر السور."
+    },
+    {
+      "id": "gq10",
+      "type": "single_choice",
+      "prompt": "أنزل القرآن على الرسول ﷺ في…؟",
+      "options": ["غار حراء", "غار ثور", "بئر زمزم", "المسجد الحرام"],
+      "correctAnswer": 0,
+      "explanation": "نزل أول القرآن في غار حراء."
+    }
+  ]
+}
