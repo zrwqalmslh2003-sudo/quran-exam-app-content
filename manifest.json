@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 1,
+  "contentVersion": 2,
   "updatedAt": "2026-09-09",
   "exams": [
     {
@@ -10,6 +10,24 @@
       "file": "exams/quran_general.json",
       "category": "quran",
       "questionCount": 10,
+      "updatedAt": "2026-09-09"
+    },
+    {
+      "id": "ghareeb_quran",
+      "version": 1,
+      "title": "غريب القرآن",
+      "file": "exams/ghareeb_quran.json",
+      "category": "quran",
+      "questionCount": 28,
+      "updatedAt": "2026-09-09"
+    },
+    {
+      "id": "ahkam_noon_sakinah",
+      "version": 1,
+      "title": "أحكام النون الساكنة والتنوين",
+      "file": "exams/ahkam_noon_sakinah.json",
+      "category": "quran",
+      "questionCount": 58,
       "updatedAt": "2026-09-09"
     }
   ]
