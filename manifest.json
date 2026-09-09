@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": 1,
+  "updatedAt": "2026-09-09",
+  "exams": [
+    {
+      "id": "quran_general",
+      "version": 1,
+      "title": "اختبار عام عن بُعد",
+      "file": "exams/quran_general.json",
+      "category": "quran",
+      "questionCount": 10,
+      "updatedAt": "2026-09-09"
+    }
+  ]
+}
