@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 1,
+  "id": "topic_21",
+  "version": 1,
+  "title": "🔥 جديد: أحكام الراءات",
+  "language": "ar",
+  "category": "أصول الرواية",
+  "categoryId": 1,
+  "subcategoryId": 1,
+  "newSubcategoryName": "أصول رواية قالون",
+  "description": null,
+  "updatedAt": "2026-09-12",
+  "questions": [
+    {
+      "id": "678",
+      "type": "single_choice",
+      "prompt": "في قوله تعالى: {فِيهِ ظُلُمَاتٌ وَرَعْدٌ وَبَرْق} [البقرة: 19]،\nحكم الراء في رعد وبرق",
+      "options": [
+        "مفخمة",
+        "مرققة"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "679",
+      "type": "single_choice",
+      "prompt": "(رزقًا - ردءًا)،",
+      "options": [
+        "مفخمة",
+        "مرققة"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "680",
+      "type": "single_choice",
+      "prompt": "راء (الفردوس)",
+      "options": [
+        "مرققة",
+        "مفخمة"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "681",
+      "type": "single_choice",
+      "prompt": "راء ( قرطاس- فرقة - لبالمرصاد)",
+      "options": [
+        "مرققة",
+        "مفخمة"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "682",
+      "type": "single_choice",
+      "prompt": "راء (إلا من ارتضى - إن ارْتبتم - أم ارْتابوا).",
+      "options": [
+        "مفخمة",
+        "مرققة"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "683",
+      "type": "single_choice",
+      "prompt": "راء [ترمي بشرَرٍ - ولمن صَبَرَ - وخَسَفَ القَمرُ].",
+      "options": [
+        "مرققة",
+        "مفخمة"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "684",
+      "type": "single_choice",
+      "prompt": "راء [يوم عسِر].",
+      "options": [
+        "مفخمة",
+        "مرققة"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "685",
+      "type": "single_choice",
+      "prompt": "راء نحو: [إن الفجار - بئس القرار - وقنا عذاب النار].",
+      "options": [
+        "مرققة",
+        "مفخمة"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "686",
+      "type": "single_choice",
+      "prompt": "راء نحو [لن تبور، تُرْجع الأمور - من في القبور].",
+      "options": [
+        "مرققة",
+        "مفخمة"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "687",
+      "type": "single_choice",
+      "prompt": "راء [خبير - يوم عَسِير - والحمير].",
+      "options": [
+        "مفخمة",
+        "مرققة"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "688",
+      "type": "single_choice",
+      "prompt": "راء [يريد الله بكم اليُسْرَ - والفَجْرِ - سُنْدُسٍ خُضْرٌ].",
+      "options": [
+        "مفخمة",
+        "مرققة"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": "689",
+      "type": "single_choice",
+      "prompt": "راء [مِن ذِكْرٍ - وما علَّمناه الشِّعْرَ - ولا بِكْرٌ].",
+      "options": [
+        "مفخمة",
+        "مرققة"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": "690",
+      "type": "single_choice",
+      "prompt": "راء  [مِصْر - القِطْر].",
+      "options": [
+        "مفخمة",
+        "مرققة",
+        "كلاهما"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "691",
+      "type": "single_choice",
+      "prompt": "راء [ الْجَوَارِ الْكُنَّسِ}\nوَمِنْ آيَاتِهِ الْجَوَارِ].\nوَاللَّيْلِ إِذَا يَسْرِ}  {عَذَابِي وَنُذُرِ}",
+      "options": [
+        "مفخمة",
+        "مرققة",
+        "كلاهما"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "692",
+      "type": "single_choice",
+      "prompt": "راء {فَأَسْرِ بِعِبَادِي لَيْلاً} \nوَأَوْحَيْنَا إِلَى مُوسَى أَنْ أَسْرِ بِعِبَادِي}",
+      "options": [
+        "مفخمة",
+        "مرققة",
+        "كلاهما"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": "693",
+      "type": "single_choice",
+      "prompt": "﴿وَٱلَّیۡلِ إِذَا یَسۡرِ﴾ [الفجر ٤]",
+      "options": [
+        "ترقيق",
+        "تفخيم",
+        "الوجهين"
+      ],
+      "correctAnswer": 2,
+      "explanation": "لأن أصلها «يسري» فحذفت منها الياء فجاز التفخيم على الحذف والترقيق على الأصل"
+    }
+  ]
+}
