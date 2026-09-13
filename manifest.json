@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 3,
+  "contentVersion": 4,
   "exams": [
     {
       "id": "quran_general",
@@ -359,6 +359,62 @@
       "subcategoryId": 3,
       "newSubcategoryName": "الرسم القرآني",
       "questionCount": 30
+    },
+    {
+      "id": "hifz_quarter_1",
+      "version": 1,
+      "title": "اختبار الحفظ — ربع البقرة",
+      "file": "exams/hifz_quarter_1.json",
+      "sha256": "155ad03661f1e1106e80776bb9761a16c033df243f48c250d6f213fa7d826495",
+      "category": "القرآن الكريم",
+      "newCategoryName": "القرآن الكريم",
+      "newSubcategoryName": "اختبار الحفظ",
+      "contentKind": "hifz_surah",
+      "scopeId": "quarter_1",
+      "questionCount": 954,
+      "includeInRandom": false
+    },
+    {
+      "id": "hifz_quarter_2",
+      "version": 1,
+      "title": "اختبار الحفظ — ربع الأعراف",
+      "file": "exams/hifz_quarter_2.json",
+      "sha256": "97b7e9ba0af389d1e626c6af4e521e59d9b9e92219fb5fcb7359680feaa883e9",
+      "category": "القرآن الكريم",
+      "newCategoryName": "القرآن الكريم",
+      "newSubcategoryName": "اختبار الحفظ",
+      "contentKind": "hifz_surah",
+      "scopeId": "quarter_2",
+      "questionCount": 1260,
+      "includeInRandom": false
+    },
+    {
+      "id": "hifz_quarter_3",
+      "version": 1,
+      "title": "اختبار الحفظ — ربع الكهف",
+      "file": "exams/hifz_quarter_3.json",
+      "sha256": "4d6907174c921e58ab2476678cba3e15fd1517c70c97825424141c9b465db828",
+      "category": "القرآن الكريم",
+      "newCategoryName": "القرآن الكريم",
+      "newSubcategoryName": "اختبار الحفظ",
+      "contentKind": "hifz_surah",
+      "scopeId": "quarter_3",
+      "questionCount": 1718,
+      "includeInRandom": false
+    },
+    {
+      "id": "hifz_quarter_4",
+      "version": 1,
+      "title": "اختبار الحفظ — ربع يس",
+      "file": "exams/hifz_quarter_4.json",
+      "sha256": "38aa03f0ca6f825f64d5b2651eac1bec180178509b15f77307822418908b5292",
+      "category": "القرآن الكريم",
+      "newCategoryName": "القرآن الكريم",
+      "newSubcategoryName": "اختبار الحفظ",
+      "contentKind": "hifz_surah",
+      "scopeId": "quarter_4",
+      "questionCount": 2304,
+      "includeInRandom": false
     }
   ]
 }
