@@ -1,17 +1,7 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 4,
+  "contentVersion": 5,
   "exams": [
-    {
-      "id": "quran_general",
-      "version": 1,
-      "title": "اختبار عام عن بُعد",
-      "file": "exams/quran_general.json",
-      "category": "quran",
-      "questionCount": 10,
-      "updatedAt": "2026-09-09",
-      "sha256": "65478c70f1ca3264ba2f480dc1d0d7f5eb8a713ecf01f6fe2191dc108f4d7fec"
-    },
     {
       "id": "topic_1",
       "version": 1,
