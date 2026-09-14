@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": 5,
+  "contentVersion": 6,
   "exams": [
     {
       "id": "topic_1",
@@ -12,7 +12,8 @@
       "categoryId": 1,
       "subcategoryId": 1,
       "newSubcategoryName": "أصول رواية قالون",
-      "questionCount": 30
+      "questionCount": 30,
+      "includeInRandom": true
     },
     {
       "id": "topic_10",
@@ -24,7 +25,8 @@
       "categoryId": 3,
       "subcategoryId": 4,
       "newSubcategoryName": "جديد 🔥: متشابهات الربع الأخير",
-      "questionCount": 27
+      "questionCount": 27,
+      "includeInRandom": true
     },
     {
       "id": "topic_11",
@@ -36,7 +38,8 @@
       "categoryId": 3,
       "subcategoryId": 4,
       "newSubcategoryName": "جديد 🔥: متشابهات الربع الأخير",
-      "questionCount": 32
+      "questionCount": 32,
+      "includeInRandom": true
     },
     {
       "id": "topic_12",
@@ -48,7 +51,8 @@
       "categoryId": 3,
       "subcategoryId": 4,
       "newSubcategoryName": "جديد 🔥: متشابهات الربع الأخير",
-      "questionCount": 15
+      "questionCount": 15,
+      "includeInRandom": true
     },
     {
       "id": "topic_13",
@@ -60,7 +64,8 @@
       "categoryId": 3,
       "subcategoryId": 4,
       "newSubcategoryName": "جديد 🔥: متشابهات الربع الأخير",
-      "questionCount": 33
+      "questionCount": 33,
+      "includeInRandom": true
     },
     {
       "id": "topic_14",
@@ -72,7 +77,8 @@
       "categoryId": 3,
       "subcategoryId": 4,
       "newSubcategoryName": "جديد 🔥: متشابهات الربع الأخير",
-      "questionCount": 29
+      "questionCount": 29,
+      "includeInRandom": true
     },
     {
       "id": "topic_15",
@@ -84,7 +90,8 @@
       "categoryId": 3,
       "subcategoryId": 4,
       "newSubcategoryName": "جديد 🔥: متشابهات الربع الأخير",
-      "questionCount": 31
+      "questionCount": 31,
+      "includeInRandom": true
     },
     {
       "id": "topic_16",
@@ -96,7 +103,8 @@
       "categoryId": 3,
       "subcategoryId": 4,
       "newSubcategoryName": "جديد 🔥: متشابهات الربع الأخير",
-      "questionCount": 20
+      "questionCount": 20,
+      "includeInRandom": true
     },
     {
       "id": "topic_17",
@@ -108,7 +116,8 @@
       "categoryId": 3,
       "subcategoryId": 4,
       "newSubcategoryName": "جديد 🔥: متشابهات الربع الأخير",
-      "questionCount": 19
+      "questionCount": 19,
+      "includeInRandom": true
     },
     {
       "id": "topic_18",
@@ -120,7 +129,8 @@
       "categoryId": 3,
       "subcategoryId": 4,
       "newSubcategoryName": "جديد 🔥: متشابهات الربع الأخير",
-      "questionCount": 20
+      "questionCount": 20,
+      "includeInRandom": true
     },
     {
       "id": "topic_19",
@@ -132,7 +142,8 @@
       "categoryId": 3,
       "subcategoryId": 4,
       "newSubcategoryName": "جديد 🔥: متشابهات الربع الأخير",
-      "questionCount": 24
+      "questionCount": 24,
+      "includeInRandom": true
     },
     {
       "id": "topic_2",
@@ -144,7 +155,8 @@
       "categoryId": 1,
       "subcategoryId": 1,
       "newSubcategoryName": "أصول رواية قالون",
-      "questionCount": 27
+      "questionCount": 27,
+      "includeInRandom": true
     },
     {
       "id": "topic_21",
@@ -156,7 +168,8 @@
       "categoryId": 1,
       "subcategoryId": 1,
       "newSubcategoryName": "أصول رواية قالون",
-      "questionCount": 16
+      "questionCount": 16,
+      "includeInRandom": true
     },
     {
       "id": "topic_22",
@@ -168,7 +181,8 @@
       "categoryId": 5,
       "subcategoryId": 7,
       "newSubcategoryName": "الجزء الثلاثون",
-      "questionCount": 28
+      "questionCount": 28,
+      "includeInRandom": true
     },
     {
       "id": "topic_23",
@@ -180,7 +194,8 @@
       "categoryId": 6,
       "subcategoryId": 8,
       "newSubcategoryName": "الكنوز الأثرية",
-      "questionCount": 25
+      "questionCount": 25,
+      "includeInRandom": true
     },
     {
       "id": "topic_24",
@@ -192,7 +207,8 @@
       "categoryId": 6,
       "subcategoryId": 8,
       "newSubcategoryName": "الكنوز الأثرية",
-      "questionCount": 25
+      "questionCount": 25,
+      "includeInRandom": true
     },
     {
       "id": "topic_25",
@@ -204,7 +220,8 @@
       "categoryId": 6,
       "subcategoryId": 8,
       "newSubcategoryName": "الكنوز الأثرية",
-      "questionCount": 25
+      "questionCount": 25,
+      "includeInRandom": true
     },
     {
       "id": "topic_26",
@@ -216,7 +233,8 @@
       "categoryId": 6,
       "subcategoryId": 8,
       "newSubcategoryName": "الكنوز الأثرية",
-      "questionCount": 25
+      "questionCount": 25,
+      "includeInRandom": true
     },
     {
       "id": "topic_28",
@@ -228,7 +246,8 @@
       "categoryId": 7,
       "subcategoryId": 9,
       "newSubcategoryName": "🆕 جديد: أحكام النون الساكنة والتنوين",
-      "questionCount": 13
+      "questionCount": 13,
+      "includeInRandom": true
     },
     {
       "id": "topic_3",
@@ -240,7 +259,8 @@
       "categoryId": 1,
       "subcategoryId": 2,
       "newSubcategoryName": "آداب حملة القرآن",
-      "questionCount": 20
+      "questionCount": 20,
+      "includeInRandom": true
     },
     {
       "id": "topic_32",
@@ -252,7 +272,8 @@
       "categoryId": 7,
       "subcategoryId": 9,
       "newSubcategoryName": "🆕 جديد: أحكام النون الساكنة والتنوين",
-      "questionCount": 12
+      "questionCount": 12,
+      "includeInRandom": true
     },
     {
       "id": "topic_33",
@@ -264,7 +285,8 @@
       "categoryId": 7,
       "subcategoryId": 9,
       "newSubcategoryName": "🆕 جديد: أحكام النون الساكنة والتنوين",
-      "questionCount": 13
+      "questionCount": 13,
+      "includeInRandom": true
     },
     {
       "id": "topic_36",
@@ -276,7 +298,8 @@
       "categoryId": 7,
       "subcategoryId": 9,
       "newSubcategoryName": "🆕 جديد: أحكام النون الساكنة والتنوين",
-      "questionCount": 20
+      "questionCount": 20,
+      "includeInRandom": true
     },
     {
       "id": "topic_4",
@@ -288,7 +311,8 @@
       "categoryId": 2,
       "subcategoryId": 3,
       "newSubcategoryName": "الرسم القرآني",
-      "questionCount": 30
+      "questionCount": 30,
+      "includeInRandom": true
     },
     {
       "id": "topic_5",
@@ -300,7 +324,8 @@
       "categoryId": 2,
       "subcategoryId": 3,
       "newSubcategoryName": "الرسم القرآني",
-      "questionCount": 16
+      "questionCount": 16,
+      "includeInRandom": true
     },
     {
       "id": "topic_6",
@@ -312,7 +337,8 @@
       "categoryId": 2,
       "subcategoryId": 3,
       "newSubcategoryName": "الرسم القرآني",
-      "questionCount": 21
+      "questionCount": 21,
+      "includeInRandom": true
     },
     {
       "id": "topic_7",
@@ -324,7 +350,8 @@
       "categoryId": 2,
       "subcategoryId": 3,
       "newSubcategoryName": "الرسم القرآني",
-      "questionCount": 25
+      "questionCount": 25,
+      "includeInRandom": true
     },
     {
       "id": "topic_8",
@@ -336,7 +363,8 @@
       "categoryId": 2,
       "subcategoryId": 3,
       "newSubcategoryName": "الرسم القرآني",
-      "questionCount": 30
+      "questionCount": 30,
+      "includeInRandom": true
     },
     {
       "id": "topic_9",
@@ -348,7 +376,8 @@
       "categoryId": 2,
       "subcategoryId": 3,
       "newSubcategoryName": "الرسم القرآني",
-      "questionCount": 30
+      "questionCount": 30,
+      "includeInRandom": true
     },
     {
       "id": "hifz_quarter_1",
